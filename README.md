@@ -58,7 +58,7 @@ Github|そのほか|メモ(対応策など)
 
 <details>
   <!-- ブロック要素h2でラップして（包んで）あることに留意 -->
-<summary><div> <h2>サマリーです</h2> </summary>
+<summary> <h2>サマリーです</h2> </summary>
  <h3>タイトル</h3>
  <p>詳細ブロックの本文</p>
 </details>
