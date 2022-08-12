@@ -6,7 +6,7 @@
 
 <hr/>
 <details>
-<summary><h2>アコーディオンひな形(取り組み or 気づき or etc.)</h2></summary>
+<summary>アコーディオンひな形(取り組み or 気づき or etc.)</summary>
  <h3>タイトル</h3>
  <ol>
   <li>番号付きリスト</li>
