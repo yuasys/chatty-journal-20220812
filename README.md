@@ -35,7 +35,7 @@ Github|そのほか|メモ(対応策など)
 
 Github|そのほか|メモ(対応策など)
 ----|----|----
-<img src='./images/fig002.png' style="width:160px">|<img src='./images/fig001.png' style="width:160px">|Githubは無視する<br/>対応策はない模様
+<img src='./images/fig003.png' style="width:160px">|<img src='./images/fig004.png' style="width:160px">|Githubはブロック要素をインライン要素とみなしてふるまう。<br/><br/>【対応策】ブロック要素の属性に<code>syle="display:inline"</code>を<br/>挿入して表示を統一する。
 
 </details>
 
@@ -55,10 +55,3 @@ Github|そのほか|メモ(対応策など)
 </details>
 
 <hr/>
-
-<details>
-  <!-- ブロック要素h2でラップして（包んで）あることに留意 -->
-<summary> <h2>サマリーです</h2> </summary>
- <h3>タイトル</h3>
- <p>詳細ブロックの本文</p>
-</details>
